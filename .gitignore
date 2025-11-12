@@ -1,21 +1,6 @@
-EWARM/H755_CM4/.cache
-EWARM/H755_CM4/BrowseInfo
-EWARM/H755_CM4/Exe
-EWARM/H755_CM4/List
-EWARM/H755_CM4/Obj
+.mxproject
+.project
 
-EWARM/H755_CM7/.cache
-EWARM/H755_CM7/BrowseInfo
-EWARM/H755_CM7/Exe
-EWARM/H755_CM7/List
-EWARM/H755_CM7/Obj
+config_default
 
-EWARM/.metadata
-
-cache
-EWARM/settings
-tmp
-
-build
-
-.idea
+CM*/build
